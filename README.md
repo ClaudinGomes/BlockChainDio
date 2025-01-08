@@ -1,10 +1,10 @@
-Andromeda Token (ADO)
+# **Andromeda Token (ADO)**
 
-Descrição
+## **Descrição**
 
 O Andromeda Token (“ADO”) é uma criptomoeda implementada no blockchain Ethereum seguindo o padrão ERC-20. Este contrato foi desenvolvido como uma introdução à criação de tokens no ecossistema Ethereum, utilizando funções básicas e seguras para transações e gerenciamento de permissões.
 
-Principais Funcionalidades
+## Principais Funcionalidades
 
 Transações seguras: Transferência de tokens entre carteiras.
 
@@ -12,7 +12,7 @@ Gestão de permissões: Aprovação e delegação de gastos para terceiros.
 
 Compatibilidade ERC-20: Total suporte ao padrão para integração com carteiras e aplicações descentralizadas (dApps).
 
-Detalhes Técnicos
+## Detalhes Técnicos
 
 Nome do Token: Andromeda Coin
 
@@ -22,15 +22,15 @@ Decimais: 3
 
 Suprimento Total: 1.000.000 ADO
 
-Requisitos de Ambiente
+## Requisitos de Ambiente
 
-Solidity 0.4.24 ou superior.
+Solidity 0.8.0 ou superior.
 
 Ferramentas de desenvolvimento Ethereum, como Remix IDE, Truffle, ou Hardhat.
 
 Conta configurada no MetaMask para deploy e interações.
 
-Implementação
+## Implementação
 
 O contrato é dividido nas seguintes seções principais:
 
