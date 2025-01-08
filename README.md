@@ -34,27 +34,27 @@ Conta configurada no MetaMask para deploy e interações.
 
 O contrato é dividido nas seguintes seções principais:
 
-1. SafeMath
+### 1. SafeMath
 
 Prover operações matemáticas seguras para evitar erros como overflow e underflow.
 
-2. Interface ERC20
+### 2. Interface ERC20
 
 Definir as funções padrão exigidas para um token ERC-20, como totalSupply, transfer, e approve.
 
-3. Contrato AndromedaToken
+### 3. Contrato AndromedaToken
 
 Implementar a lógica do token e suas funcionalidades:
 
-Construtor: Inicializa o token, definindo nome, símbolo, decimais e alocando o suprimento total para o criador.
+**Construtor**: Inicializa o token, definindo nome, símbolo, decimais e alocando o suprimento total para o criador.
 
-Transferência: Transferência direta de tokens entre endereços.
+**Transferência**: Transferência direta de tokens entre endereços.
 
-Aprovação: Permitir que um terceiro gaste tokens em nome do dono.
+**Aprovação**: Permitir que um terceiro gaste tokens em nome do dono.
 
-Transferência Delegada: Transferir tokens utilizando permissão prévia do dono.
+**Transferência Delegada**: Transferir tokens utilizando permissão prévia do dono.
 
-Função de Fallback: Rejeitar transações de ETH para o contrato.
+**Função de Fallback**: Rejeitar transações de ETH para o contrato.
 
 
 ## **Exemplo de Uso**
@@ -93,7 +93,7 @@ Este contrato poderá vir a ser aprimorado no futuro com as seguintes funcionali
 
 **Código**
 
-O código completo pode ser encontrado aqui.
+O código completo está contido no arquivo ***andromeda.sol***.
 
 
 **Licença**
@@ -101,7 +101,7 @@ O código completo pode ser encontrado aqui.
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 
-## Imagens do andamento da criação do projeto e Testes poderão ser encontradas aqui:  XXXXXXXXXXXXXXXXXXXX**
+## Imagens do andamento da criação do projeto e Testes poderão ser encontradas aqui na SUBPASTA *\IMAGENS*
 
 
 ## Contato
