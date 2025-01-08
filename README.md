@@ -56,9 +56,10 @@ Transferência Delegada: Transferir tokens utilizando permissão prévia do dono
 
 Função de Fallback: Rejeitar transações de ETH para o contrato.
 
-Exemplo de Uso
 
-Deploy do Contrato:
+## **Exemplo de Uso**
+
+**Deploy do Contrato:**
 
 Copie o código do contrato para o Remix IDE.
 
@@ -66,17 +67,18 @@ Compile usando o compilador Solidity configurado para a versão 0.4.24.
 
 Realize o deploy utilizando sua carteira MetaMask.
 
-Transferência de Tokens:
+**Transferência de Tokens:**
 
 Use a função transfer para enviar tokens para outro endereço.
 
-Aprovação e Gasto:
+**Aprovação e Gasto:**
 
 Chame approve para permitir que um terceiro gaste seus tokens.
 
 O terceiro pode usar transferFrom para transferir os tokens aprovados.
 
-Melhorias Possíveis
+
+### Melhorias Possíveis
 
 Este contrato pode ser aprimorado com as seguintes funcionalidades adicionais:
 
@@ -88,19 +90,21 @@ Taxas de Transação: Implementar uma taxa que seja transferida para um endereç
 
 Governança: Adicionar métodos para permitir votação descentralizada.
 
-Código
+
+**Código**
 
 O código completo pode ser encontrado aqui.
 
-Licença
+
+**Licença**
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-Contato
+
+## Contato
 
 Para dúvidas ou sugestões, entre em contato:
 
-Email: claudinei@example.com
-
-GitHub: [github.com/claudinei]
+Email: claudinei.d.gomes@gmail.com
+GitHub: [github.com/ClaudinGomes]
 
