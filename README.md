@@ -93,15 +93,17 @@ Este contrato poderá vir a ser aprimorado no futuro com as seguintes funcionali
 
 ## **Código**
 
-O código completo está contido no arquivo ***andromeda.sol***.
+O código completo está contido no arquivo ***andromeda.sol***. 
+
+** *OBS: Procuramos deixar o código comentado da melhor forma possível !* **
 
 
-**Licença**
+## **Licença**
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 
-## Imagens do andamento da criação do projeto e Testes poderão ser encontradas aqui na SUBPASTA *\IMAGENS*
+## Imagens do andamento da criação do projeto e testes poderão ser encontrados aqui na SUBPASTA *\IMAGENS*
 
 
 ## Contato
@@ -109,5 +111,6 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 Para dúvidas ou sugestões, entre em contato:
 
 Email: claudinei.d.gomes@gmail.com
-GitHub: [github.com/ClaudinGomes]
+
+GitHub: **[github.com/ClaudinGomes]**
 
