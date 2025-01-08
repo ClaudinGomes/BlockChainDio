@@ -75,7 +75,7 @@ Use a função transfer para enviar tokens para outro endereço.
 
 Chame approve para permitir que um terceiro gaste seus tokens.
 
-O terceiro pode usar transferFrom para transferir os tokens aprovados.
+O terceiro pode usar *transferFrom* para transferir os tokens aprovados.
 
 
 ### Melhorias Possíveis
@@ -91,7 +91,7 @@ Este contrato poderá vir a ser aprimorado no futuro com as seguintes funcionali
 **Governança**: Adicionar métodos para permitir votação descentralizada.
 
 
-**Código**
+## **Código**
 
 O código completo está contido no arquivo ***andromeda.sol***.
 
