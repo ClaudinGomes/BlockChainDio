@@ -80,15 +80,15 @@ O terceiro pode usar transferFrom para transferir os tokens aprovados.
 
 ### Melhorias Possíveis
 
-Este contrato pode ser aprimorado com as seguintes funcionalidades adicionais:
+Este contrato poderá vir a ser aprimorado no futuro com as seguintes funcionalidades adicionais:
 
-Queima de Tokens: Permitir que os tokens sejam destruídos, reduzindo o suprimento total.
+**Queima de Tokens**: Permitir que os tokens sejam destruídos, reduzindo o suprimento total.
 
-Minting: Adicionar mais tokens ao suprimento total.
+**Minting**: Adicionar mais tokens ao suprimento total.
 
-Taxas de Transação: Implementar uma taxa que seja transferida para um endereço específico, como um fundo de desenvolvimento.
+**Taxas de Transação**: Implementar uma taxa que seja transferida para um endereço específico, como um fundo de desenvolvimento.
 
-Governança: Adicionar métodos para permitir votação descentralizada.
+**Governança**: Adicionar métodos para permitir votação descentralizada.
 
 
 **Código**
@@ -99,6 +99,9 @@ O código completo pode ser encontrado aqui.
 **Licença**
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+
+## Imagens do andamento da criação do projeto e Testes poderão ser encontradas aqui:  XXXXXXXXXXXXXXXXXXXX**
 
 
 ## Contato
