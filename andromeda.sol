@@ -101,10 +101,10 @@ contract Andromeda is ERC20Interface, SafeMath {
         _totalSupply = 1000000;                    // Setting the total supply of tokens
 
         // Assigning the entire supply to the creator's wallet (replace with actual wallet address)
-        balances[owner] = _totalSupply;
+        balances[0xDE96bbB9869A071d69341E04ADF251cfDB4269D8] = _totalSupply;
 
         // Emitting a transfer event for the initial token allocation
-        emit Transfer(address(0), owner, _totalSupply);
+        emit Transfer(address(0), 0xDE96bbB9869A071d69341E04ADF251cfDB4269D8, _totalSupply);
     }
 
     // Function to return the total supply of tokens (excluding burned tokens)
