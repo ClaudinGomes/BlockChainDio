@@ -58,7 +58,7 @@ contract ApproveAndCallFallBack {
 // Por: Claudinei Diniz
 // -----------------------------------------------------------------
 // Actual token contract implementation
-contract AndromedaToken is ERC20Interface, SafeMath {
+contract Andromeda is ERC20Interface, SafeMath {
     string public symbol;        // Token symbol
     string public name;          // Token name
     uint8 public decimals;       // Number of decimal places
