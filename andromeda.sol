@@ -48,13 +48,13 @@ contract ERC20Interface {
 
 // Interface for contract to receive approval and execute a function in one call
 contract ApproveAndCallFallBack {
-    function receiveApproval(address from, uint256 tokens, address token, bytes data) public;
+    function receiveApproval(address from, uint256 tokens, address token, bytes memory data) public;
 }
 
 // =================================================================
 // Meu contrato
 // Desenvolvimento iniciado em 14/12/2024
-// Ultima alteracao em:
+// Ultima alteracao em: 11/02/2025
 // Por: Claudinei Diniz
 // -----------------------------------------------------------------
 // Actual token contract implementation
